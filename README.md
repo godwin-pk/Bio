@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @godwin-pk
-- 👀 I’m interested in ...data science,machine learning, data analysis
-- 🌱 I’m currently learning ... deep learning
+- 👀 Experience in ML,Python Django backend developing, aws cloud architect 
+- certified in aws cloud architecture associate and cloud practitioner
+
 
 
 <!---
